@@ -141,31 +141,8 @@ section{
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%
-px
- solid;
-    color: #024e76;
-    padding-bottom: 20
-px
-;
-    text-align: center;
-    margin: 0 auto 35
-px
- auto;
-    width: 50%;
-px
- solid;
-    color: #024e76;
-    padding-bottom: 20
-px
-;
-    text-align: center;
-    margin: 0 auto 35
-px
- auto;
-    width: 50%;
 }
-
-.primary-border{
+.primary-border {
     border-color: #fce138;
 }
 .secondary-border{
