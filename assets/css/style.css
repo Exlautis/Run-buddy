@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+:root{
+    --primary-color: #fce138:
+}
+
 body{
     /* more on this crazy alphanumerical value in a minute!*/
     color:#39a6b2;
